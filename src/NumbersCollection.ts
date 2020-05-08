@@ -22,10 +22,10 @@ export class NumbersCollection {
   }
 }
 
-const collection = new NumbersCollection([1, 2, 3]);
-collection.length;
-collection.data.concat;
+// const collection = new NumbersCollection([1, 2, 3]);
+// collection.length;
+// collection.data.concat;
 
-export const test = () => {
-  console.log('test');
-};
+// export const test = () => {
+//   console.log('test');
+// };
